@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rpkalbfeld\\Source\\Repos\\MethodPractice\\MethodPractice\\MethodPractice.csproj",
+      "projectUniqueName": "C:\\Users\\rpkalbfeld\\Desktop\\Class Folder\\repos\\MethodPractice\\MethodPractice\\MethodPractice.csproj",
       "projectName": "MethodPractice",
-      "projectPath": "C:\\Users\\rpkalbfeld\\Source\\Repos\\MethodPractice\\MethodPractice\\MethodPractice.csproj",
+      "projectPath": "C:\\Users\\rpkalbfeld\\Desktop\\Class Folder\\repos\\MethodPractice\\MethodPractice\\MethodPractice.csproj",
       "packagesPath": "C:\\Users\\rpkalbfeld\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rpkalbfeld\\Source\\Repos\\MethodPractice\\MethodPractice\\obj\\",
+      "outputPath": "C:\\Users\\rpkalbfeld\\Desktop\\Class Folder\\repos\\MethodPractice\\MethodPractice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rpkalbfeld\\AppData\\Roaming\\NuGet\\NuGet.Config",

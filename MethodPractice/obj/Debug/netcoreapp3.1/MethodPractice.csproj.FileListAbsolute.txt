@@ -11,3 +11,16 @@ C:\Users\rpkalbfeld\Source\Repos\MethodPractice\MethodPractice\obj\Debug\netcore
 C:\Users\rpkalbfeld\Source\Repos\MethodPractice\MethodPractice\obj\Debug\netcoreapp3.1\MethodPractice.dll
 C:\Users\rpkalbfeld\Source\Repos\MethodPractice\MethodPractice\obj\Debug\netcoreapp3.1\MethodPractice.pdb
 C:\Users\rpkalbfeld\Source\Repos\MethodPractice\MethodPractice\obj\Debug\netcoreapp3.1\MethodPractice.genruntimeconfig.cache
+C:\Users\rpkalbfeld\Desktop\Class Folder\repos\MethodPractice\MethodPractice\bin\Debug\netcoreapp3.1\MethodPractice.exe
+C:\Users\rpkalbfeld\Desktop\Class Folder\repos\MethodPractice\MethodPractice\bin\Debug\netcoreapp3.1\MethodPractice.deps.json
+C:\Users\rpkalbfeld\Desktop\Class Folder\repos\MethodPractice\MethodPractice\bin\Debug\netcoreapp3.1\MethodPractice.runtimeconfig.json
+C:\Users\rpkalbfeld\Desktop\Class Folder\repos\MethodPractice\MethodPractice\bin\Debug\netcoreapp3.1\MethodPractice.runtimeconfig.dev.json
+C:\Users\rpkalbfeld\Desktop\Class Folder\repos\MethodPractice\MethodPractice\bin\Debug\netcoreapp3.1\MethodPractice.dll
+C:\Users\rpkalbfeld\Desktop\Class Folder\repos\MethodPractice\MethodPractice\bin\Debug\netcoreapp3.1\MethodPractice.pdb
+C:\Users\rpkalbfeld\Desktop\Class Folder\repos\MethodPractice\MethodPractice\obj\Debug\netcoreapp3.1\MethodPractice.csprojAssemblyReference.cache
+C:\Users\rpkalbfeld\Desktop\Class Folder\repos\MethodPractice\MethodPractice\obj\Debug\netcoreapp3.1\MethodPractice.AssemblyInfoInputs.cache
+C:\Users\rpkalbfeld\Desktop\Class Folder\repos\MethodPractice\MethodPractice\obj\Debug\netcoreapp3.1\MethodPractice.AssemblyInfo.cs
+C:\Users\rpkalbfeld\Desktop\Class Folder\repos\MethodPractice\MethodPractice\obj\Debug\netcoreapp3.1\MethodPractice.csproj.CoreCompileInputs.cache
+C:\Users\rpkalbfeld\Desktop\Class Folder\repos\MethodPractice\MethodPractice\obj\Debug\netcoreapp3.1\MethodPractice.dll
+C:\Users\rpkalbfeld\Desktop\Class Folder\repos\MethodPractice\MethodPractice\obj\Debug\netcoreapp3.1\MethodPractice.pdb
+C:\Users\rpkalbfeld\Desktop\Class Folder\repos\MethodPractice\MethodPractice\obj\Debug\netcoreapp3.1\MethodPractice.genruntimeconfig.cache
